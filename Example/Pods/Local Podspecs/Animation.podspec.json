@@ -1,0 +1,22 @@
+{
+  "name": "Animation",
+  "version": "0.1.0",
+  "summary": "A short description of Animation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Leonzzq/Animation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Leonzzq": "923885097@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Leonzzq/Animation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Animation/Classes/**/*"
+}
